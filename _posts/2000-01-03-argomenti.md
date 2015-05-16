@@ -7,18 +7,18 @@ fa-icon: th-list
 
 ###Activity e task in background
 
-###Programmazione funzionale
+###Programmazione funzionale con RxJava
 
-###User interface
+###Grafica e interfaccia utente
 
 ###Supporto multidevice
 
 ###Bluetooth
 
-###Wear
+###Android Wear
 
-###Chromecast
+###Chromecast e Google Cast
 
-###Qualità del codice
+###Testing e qualità del codice
 
 ###Sicurezza
