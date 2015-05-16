@@ -382,3 +382,60 @@ nav ul li:hover, nav ul li.active {
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+
+#intro a.btn {
+  color: #ffffff;  
+}
+
+.link-section {
+  color: #FFF;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  margin-left: 0px;
+  display: inline-block;
+  font-size: 130px;
+}
+
+.link-section h5 {
+  font-size:15px;
+  font-weight:700;
+  text-transform:uppercase;
+  position:absolute;
+  bottom:50px;
+  left:auto;
+  text-align:center;
+  display:block;
+  z-index:6;
+  width:260px;
+}
+
+div.author-image {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 128px;
+    height: 128px;
+    float: left;
+    margin-right: 20px;
+}
+
+#autori {
+  font-size: 17px;
+}
+
+#autori div.column {
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+div.author-link {
+  margin-top: 8px;
+}
+div.author-link a {
+  text-decoration: none;
+}
+div.author-link a i {
+  margin-right: 8px;
+}
