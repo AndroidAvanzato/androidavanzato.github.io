@@ -38,6 +38,7 @@
 
     .container .small.column { width: 48%; }
     .container .half.column  { width: 48%; }
+    .container .resp.small.column  { width: 98%; }
     .container .resp.half.column  { width: 98%; }
     .container .big.column   { width: 98%; }
     .container .full.column  { width: 98%; }
