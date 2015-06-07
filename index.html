@@ -77,4 +77,18 @@
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>
+<script src="jquery.cookiesdirective.js"></script>
+  <script type="text/javascript">
+  // Using $(document).ready never hurts
+  $(document).ready(function(){  
+    $.cookiesDirective({
+      duration: 100,
+      explicitConsent: false,
+      message: "Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Se continui a navigare su questo sito acconsenti all'uso dei cookie",
+      backgroundColor: '#52B54A',
+      backgroundOpacity: '98',
+      linkColor: '#ffffff'
+    });
+  });
+  </script>
 </html>
