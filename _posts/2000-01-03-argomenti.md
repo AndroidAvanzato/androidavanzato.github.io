@@ -5,20 +5,20 @@ color: black
 fa-icon: th-list
 ---
 
-###Activity e task in background
+### Activity e task in background
 
-###Programmazione funzionale con RxJava
+### Programmazione funzionale con RxJava
 
-###Grafica e interfaccia utente
+### Grafica e interfaccia utente
 
-###Supporto multidevice
+### Supporto multidevice
 
-###Bluetooth
+### Bluetooth
 
-###Android Wear
+### Android Wear
 
-###Chromecast e Google Cast
+### Chromecast e Google Cast
 
-###Testing e qualità del codice
+### Testing e qualità del codice
 
-###Sicurezza
+### Sicurezza
